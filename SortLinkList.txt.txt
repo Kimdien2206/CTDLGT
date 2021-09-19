@@ -80,3 +80,4 @@ void SapXepTang(NV *LL, LIST &l)
         n++;
     }
 }
+void NONE(){}
